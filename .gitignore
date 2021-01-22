@@ -1,2 +1,4 @@
-data/LJSpeech/wavs
-data/LJSpeech/metadata.csv
+data
+!data/LJSpeech/sample.csv
+!data/LJSpeech/wavs_sample
+prac.py
